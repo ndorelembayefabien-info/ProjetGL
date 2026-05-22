@@ -1,0 +1,23 @@
+=================================================
+      FICHE INDIVIDUELLE DU CITOYEN ENREGISTRÉ   
+=================================================
+ID             : CIT-3102
+Nom            : FABIN fabiem
+Sexe           : m
+Né(e) le       : 01/01/1999
+Adresse        : NNNNNN
+Téléphone      : 645827152
+Email          : GHFGHCVHJGHCVG
+Profession     : POLIGAMME
+Situation fam. : CELOµ
+Handicapé(e)   : Non
+Privilège      : Aucun
+-------------------------------------------------
+[PRIVILÈGE ASSOCIÉ] : Exonération totale des frais d'urgence
+[URGENCE] Service: Mairie | Frais appliqués: 0 CFA | Justification: VGCHJEZKHDEZILHSSEHILKJHVG HDGKJCDCUSHIZDVEFS CVIHKDSVFHIFEF FCHFSVEGJUFHSE FVBVFJHHIEAE DECN IDUEHJGHVF
+
+[LOG RENDEZ-VOUS]
+Service  : Mairie
+Motif    : JJGHDSJDGVHJKHDVF GKHGQJKLHDSKVHDSHLQZ QDFYGUIOGJFCSGEVAJ LIUGYFYUIOYSVJE HIUGYFGUIVFHGKFSE IUYTYFUIGFSE DXIOYUYGIDKGV
+Date     : 23/05/2026
+Statut   : Accepté

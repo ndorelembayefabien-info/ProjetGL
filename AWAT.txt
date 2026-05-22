@@ -1,0 +1,22 @@
+=================================================
+      FICHE INDIVIDUELLE DU CITOYEN ENREGISTRÉ   
+=================================================
+ID             : CIT-4520
+Nom            : AWAT NOUR
+Sexe           : M
+Né(e) le       : 01/01/2005
+Adresse        : NGAOUNDERE
+Téléphone      : 689448133
+Email          : AWATNOUR@GMAIL.COM
+Profession     : ETUDIENT
+Situation fam. : CELIBATEUR
+Handicapé(e)   : Non
+Privilège      : Aucun
+-------------------------------------------------
+[PRIVILÈGE ASSOCIÉ] : Priorité d'accès sans file d'attente
+
+[LOG RENDEZ-VOUS]
+Service  : Mairie
+Motif    : KLVUIOJBJK FVOKL VKJHJVHHIOPVGDREA DGFOJIVUIRDGFIHOUR KOIUUIPIGHRZ3 IHGGHPDGIHURZHJ3K IUHGURIUPGUOIHRK3
+Date     : 26/05/2026
+Statut   : Accepté
